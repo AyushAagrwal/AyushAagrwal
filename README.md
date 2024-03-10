@@ -1,4 +1,3 @@
-![logo](https://github.com/AyushAagrwal/AyushAagrwal/blob/main/Gemini_Generated_Image%20(1).jpeg)
 
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">Final year undergrad BTech (CSE) student adept at web scraping, data science, and automation. Crafting innovative solutions with skills in Selenium, Python, Flask, Pandas, and engagement in Kaggle competitions. Enabling seamless experiences through creative projects—Turning ideas into impactful realities.</h3>
