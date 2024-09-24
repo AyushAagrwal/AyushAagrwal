@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python , Data Science , Data Analysis**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LAjeyb0VbqBRu5Vf-dDkmf5feghjOZM4hQXDprSNDWs/edit?usp=sharing](https://docs.google.com/document/d/1LAjeyb0VbqBRu5Vf-dDkmf5feghjOZM4hQXDprSNDWs/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1LAjeyb0VbqBRu5Vf-dDkmf5feghjOZM4hQXDprSNDWs/edit?usp=sharing](https://drive.google.com/file/d/1JNYliNSqcMu4MZ6dSM9BX1U-L_SiSTWs/view?usp=sharing)](https://drive.google.com/file/d/1JNYliNSqcMu4MZ6dSM9BX1U-L_SiSTWs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
