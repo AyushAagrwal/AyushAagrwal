@@ -1,14 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
-<h3 align="center">Final year undergrad BTech (CSE) student adept at web scraping, data science, and automation. Crafting innovative solutions with skills in Selenium, Python, Flask, Pandas, and engagement in Kaggle competitions. Enabling seamless experiences through creative projects—Turning ideas into impactful realities.</h3>
+<h3 align="center">My journey to becoming a Data Analyst at IIM Bangalore began after graduating with a BTech in Computer Science from the University of Engineering & Management. There, I honed my technical prowess, particularly in software development and problem solving, which now underpin my analysis work. My recent project as a Project Lead showcased my ability to innovate, as I developed a Flask-based web application that significantly enhanced URL safety predictions.
+
+This role capitalizes on my competencies in visualization and software development, allowing me to tackle complex data challenges. It's a culmination of my educational background and a testament to my commitment to leveraging technology for impactful solutions. My motivation is fueled by the desire to turn data into actionable insights, driving forward the digital landscape with precision and creativity.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFVBA7EsXyz6Q/feedshare-shrink_2048_1536/0/1630049210782?e=2147483647&v=beta&t=ouEs1Zo4jRPs7M1zbdca6ZxfKcnHteetr-vaQPgoiPs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushaagrwal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushaagrwal" /> </p>
 
-- 🔭 I’m currently working on [DataStatX](https://github.com/AyushAagrwal/DataStatX)
+- 🔭 I’m currently working on [IIM, Bangalore under Jal Jeevan Mission Project]([https://github.com/AyushAagrwal/DataStatX](https://iimb-jjmproject.iimb.ac.in/))
 
-- 🌱 I’m currently learning **Selenium, Flask ,Automation**
+- 🌱 I’m currently learning **Machine learning, Flask ,Selenium**
 
 - 🤝 I’m looking for help with [Photo_Identifier](https://t.me/Photo_identifier_bot)
 
