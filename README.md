@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
-<h3 align="center">My journey to becoming a Data Analyst at IIM Bangalore began after graduating with a BTech in Computer Science from the University of Engineering & Management. There, I honed my technical prowess, particularly in software development and problem solving, which now underpin my analysis work. My recent project as a Project Lead showcased my ability to innovate, as I developed a Flask-based web application that significantly enhanced URL safety predictions.
-
-This role capitalizes on my competencies in visualization and software development, allowing me to tackle complex data challenges. It's a culmination of my educational background and a testament to my commitment to leveraging technology for impactful solutions. My motivation is fueled by the desire to turn data into actionable insights, driving forward the digital landscape with precision and creativity.</h3>
+<h3 align="center">My journey to becoming a Data Analyst at IIM Bangalore began with a BTech in Computer Science from the University of Engineering & Management, where I developed strong skills in software development and problem-solving. Recently, as a Project Lead, I created a Flask-based web application that improved URL safety predictions, showcasing my ability to innovate in data visualization and software development. I am passionate about transforming data into actionable insights and am dedicated to leveraging technology to drive impactful solutions in the digital landscape.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFVBA7EsXyz6Q/feedshare-shrink_2048_1536/0/1630049210782?e=2147483647&v=beta&t=ouEs1Zo4jRPs7M1zbdca6ZxfKcnHteetr-vaQPgoiPs">
 
