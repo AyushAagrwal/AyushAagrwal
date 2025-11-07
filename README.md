@@ -65,7 +65,7 @@ Transforming complex data into intelligent and actionable solutions.
 ---
 
 ### 📄 Know about my experiences
-📜 [View My Resume](https://drive.google.com/file/d/1JNYliNSqcMu4MZ6dSM9BX1U-L_SiSTWs/view?usp=sharing)
+📜 [View My Resume](https://drive.google.com/file/d/119s5Dq-HzWIWrT5MrwXTxStq-31I_RDk/view?usp=sharing)
 
 ---
 
