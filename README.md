@@ -1,30 +1,100 @@
-
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
-<h3 align="center">My journey to becoming a Data Analyst at IIM Bangalore began with a BTech in Computer Science from the University of Engineering & Management, where I developed strong skills in software development and problem-solving. Recently, as a Project Lead, I created a Flask-based web application that improved URL safety predictions, showcasing my ability to innovate in data visualization and software development. I am passionate about transforming data into actionable insights and am dedicated to leveraging technology to drive impactful solutions in the digital landscape.</h3>
+<h3 align="center">
+Python Developer | Data Engineer | Generative AI Enthusiast  
+Transforming complex data into intelligent and actionable solutions.
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFVBA7EsXyz6Q/feedshare-shrink_2048_1536/0/1630049210782?e=2147483647&v=beta&t=ouEs1Zo4jRPs7M1zbdca6ZxfKcnHteetr-vaQPgoiPs">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushaagrwal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushaagrwal" /> </p>
-
-- 🔭 I’m currently working on [IIM, Bangalore under Jal Jeevan Mission Project]([https://github.com/AyushAagrwal/DataStatX](https://iimb-jjmproject.iimb.ac.in/))
-
-- 🌱 I’m currently learning **Machine learning, Flask ,Selenium**
-
-- 🤝 I’m looking for help with [Photo_Identifier](https://t.me/Photo_identifier_bot)
-
-- 💬 Ask me about **Python , Data Science , Data Analysis**
-
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1LAjeyb0VbqBRu5Vf-dDkmf5feghjOZM4hQXDprSNDWs/edit?usp=sharing](https://drive.google.com/file/d/1JNYliNSqcMu4MZ6dSM9BX1U-L_SiSTWs/view?usp=sharing)](https://drive.google.com/file/d/1JNYliNSqcMu4MZ6dSM9BX1U-L_SiSTWs/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agarwal2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwal2001/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/apkaayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="apka_ayush" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush_agarwal_offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_agarwal_offical" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ayushaagrwal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushaagrwal" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 💼 Experience
+
+**🔹 Python Developer — V-Align Technologies Pvt. Ltd. (Bengaluru)**  
+📆 *Nov 2024 – Present*  
+- Designed and built **ETL pipelines** with Python, Pandas, and PySpark for multi-region supplier data.  
+- Automated **data quality reporting** and workflow integration using reusable Python modules.  
+- Leveraged **Big Data frameworks** for analytics, feature extraction, and transformation pipelines.
+
+**🔹 Data Analyst — IIM Bangalore | Jal Jeevan Mission (Govt. of India)**  
+📆 *Jun 2024 – Oct 2024*  
+- Created **district & village-level dashboards** and interactive maps (Folium) for large-scale datasets.  
+- Developed a **Multilingual RAG-based chatbot** using LangChain, FAISS, and Vector Databases.  
+- Built **ETL pipelines** integrating shapefiles and real-time analytics into a decision-support dashboard.  
+
+---
+
+### 🚀 Projects
+
+- 🌍 **[JJM Dashboard](https://iimb-jjmproject.iimb.ac.in/)** – Interactive geospatial water analytics for rural development.  
+- 🤖 **[Multimodal RAG System](https://multimodel-chatbot.up.railway.app/)** – Retrieval-Augmented Generation chatbot supporting PDFs, text & image-based queries.  
+- 🛡️ **[Phishing Detection Web App](https://phishingguard.streamlit.app/)** – Flask-based ML web app predicting malicious URLs with high accuracy.  
+
+---
+
+### 🧠 Core Skills
+
+**Programming & Automation:** Python, SQL, N8N, Workflow Automation  
+**Data Engineering & ML:** pandas, NumPy, scikit-learn, PySpark, Feature Engineering, EDA  
+**Generative AI & LLMs:** LangChain, FAISS, RAG, Embeddings, Prompt Engineering  
+**Web Frameworks:** Flask, Streamlit, REST APIs, Selenium  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**DevOps & Tools:** Docker, Git, CI/CD, Excel Automation  
+**Visualization:** Folium, Matplotlib, Seaborn, Power BI  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Kaggle Dataset Expert** – Earned medals for creating and publishing high-quality datasets.  
+- 💡 Built AI-powered applications integrating multilingual, data-driven insights.  
+- 🎓 **B.Tech (CSE)** – University of Engineering & Management, Kolkata (CGPA: 8.6/10)
+
+---
+
+### 🌱 I’m currently learning
+**Generative AI, LangChain, PySpark, Advanced Flask Integration**
+
+### 💬 Ask me about
+**Python, Data Science, Data Engineering, AI Integration**
+
+---
+
+### 📄 Know about my experiences
+📜 [View My Resume](https://drive.google.com/file/d/1JNYliNSqcMu4MZ6dSM9BX1U-L_SiSTWs/view?usp=sharing)
+
+---
+
+### 🤝 Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/agarwal2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://github.com/AyushAagrwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/apkaayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/ayush_agarwal_offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🧰 Languages and Tools:
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/> </a>
+  <a href="https://docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
+</p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushaagrwal&show_icons=true&locale=en&layout=compact" alt="ayushaagrwal" /></p>
 
